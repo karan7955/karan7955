@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=230&section=header&text=Karan%20Vardhan%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20Backend%20Developer&descAlignY=55&descSize=18&fontWeight=600" width="100%"/>
-
-<a href="https://www.linkedin.com/in/karan-vardhan-raj-3a5317287/">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&section=header&text=Karan%20Vardhan%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20AI%20Engineer&descAlignY=55&descSize=18"/>
+</p>
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Intern+@+DAE-SINP;Building+AI-Powered+Applications;Always+Learning+Something+New&font=Fira+Code&center=true&width=750&height=45&color=0EA5E9&vCenter=true&size=22&pause=1200"/>
 </a>
 
@@ -691,7 +691,7 @@ May 2025 – July 2025
 
 <div align="center">
 
-> **Generate this automatically using GitHub Actions (instructions below).**
+> **Every green square represents curiosity, consistency, and continuous learning.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karan7955/karan7955/output/github-contribution-grid-snake-dark.svg">
