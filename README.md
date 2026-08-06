@@ -528,9 +528,7 @@ May 2025 – July 2025
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karan7955&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
+  
 <img height="170" src="https://streak-stats.demolab.com?user=karan7955&theme=tokyonight&hide_border=true"/>
 
 </div>
