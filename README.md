@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:0EA5E9&section=header&text=Karan%20Vardhan%20Raj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20AI%20Engineer&descAlignY=55&descSize=18"/>
 </p>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Research+Intern+@+DAE-SINP;Building+AI-Powered+Applications;Always+Learning+Something+New&font=Fira+Code&center=true&width=750&height=45&color=0EA5E9&vCenter=true&size=22&pause=1200"/>
 </a>
 
@@ -59,6 +60,7 @@ My goal is to become a **Software Engineer** who builds scalable products that c
 | Degree | Institute | Duration |
 |---------|-----------|----------|
 | **B.Tech Computer Science & Engineering (AI & ML)** | University of Engineering & Management, Jaipur | 2023 – 2027 |
+| **Minor Data Science** | University of Engineering & Management, Jaipur | 2023 – 2027 |
 
 ---
 
@@ -74,7 +76,7 @@ Worked on an AI-assisted biomedical image analysis pipeline focused on cancer-ce
 ### Responsibilities
 
 - Designed automated puncta detection pipelines using Python and OpenCV
-- Processed and analyzed more than **6,000 microscopy images**
+- Processed and analyzed more than **6,000+ Synthetic & Experimental images**
 - Evaluated **5+ Metaheuristic Optimization Algorithms**
 - Improved robustness of parameter tuning
 - Reduced manual intervention in image analysis workflows
@@ -88,12 +90,9 @@ I aspire to build production-ready software that combines modern software engine
 
 I'm particularly interested in:
 
-- Backend Development
+- Software Development
 - AI Applications
 - Computer Vision
-- Distributed Systems
-- Cloud Computing
-- Software Architecture
 - Developer Tools
 
 ---
@@ -139,7 +138,7 @@ I'm particularly interested in:
 ## 🚀 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,sql" />
 </p>
 
 ---
@@ -209,7 +208,7 @@ I'm particularly interested in:
 | Database Management Systems | ⭐⭐⭐⭐☆ |
 | Operating Systems | ⭐⭐⭐⭐☆ |
 | Computer Networks | ⭐⭐⭐⭐☆ |
-| REST API Development | ⭐⭐⭐⭐⭐ |
+| REST API Development | ⭐⭐⭐⭐ ☆|
 | JWT Authentication | ⭐⭐⭐⭐☆ |
 | Software Engineering | ⭐⭐⭐⭐⭐ |
 
@@ -285,15 +284,13 @@ Git & GitHub             ██████████████████�
 
 # 📈 2026 Goals
 
-✅ Solve 500+ DSA problems
+✅ Solve 300+ DSA problems
 
 ✅ Contribute to Open Source
 
 ✅ Build impactful AI projects
 
 ✅ Master Backend Development
-
-✅ Learn Cloud & DevOps
 
 ✅ Secure a Software Engineering Internship / Full-Time Role
 
@@ -494,7 +491,7 @@ May 2025 – July 2025
 
 ✔ Designed AI-assisted puncta detection pipeline
 
-✔ Processed over **6000 microscopy images**
+✔ Processed over **6000+ Synthetic & microscopy images**
 
 ✔ Worked on Computer Vision
 
@@ -556,7 +553,7 @@ May 2025 – July 2025
 
 </div>
 
----
+<!---
 
 # 🏆 GitHub Trophies
 
@@ -566,7 +563,7 @@ May 2025 – July 2025
 
 </div>
 
----
+---!>
 
 # 🎖 Certifications
 
@@ -574,13 +571,17 @@ May 2025 – July 2025
 
 | Certification | Provider |
 |---------------|----------|
-| Programming in Java | NPTEL – IIT Kharagpur |
-| Python for Data Science | NPTEL – IIT Madras |
-| Joy of Computing Using Python | NPTEL – IIT Madras |
-| Problem Solving in C | NPTEL – IIT Kharagpur |
-| Databases and SQL for Data Science with Python | Google Coursera |
-| Data Science in Python | Google Coursera |
-| AI & ML on Google Cloud | Google Coursera |
+# 🎓 Certifications
+
+| Certification | Provider |
+|---------------|----------|
+| [Programming in Java]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/12JYT9LRdlGr15ZZuZq0byQC-Wcglbmkr/view)) | NPTEL – IIT Kharagpur |
+| [Python for Data Science]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/1YOKQ5-5xoRPYyQ3OO9iGJSwojq7iG2qB/view)) | NPTEL – IIT Madras |
+| [Joy of Computing Using Python]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/1_5CRnjgPI2qzmuk2bM-ZL1d7bCUUOls1/view?usp=sharing)) | NPTEL – IIT Madras |
+| [Problem Solving in C]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/110qvKOIc_cThHyr-KH5CuQZs9qFE-bRz/view)) | NPTEL – IIT Kharagpur |
+| [Databases and SQL for Data Science with Python]([https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://www.coursera.org/account/accomplishments/verify/6M29WP11W5KH)) | Google Coursera |
+| [Data Science in Python]([https://www.coursera.org/account/accomplishments/verify/YYYYYYYY](https://www.coursera.org/account/accomplishments/verify/0L4OVRSD1RVY)) | Google Coursera |
+| [AI & ML on Google Cloud]([https://www.coursera.org/account/accomplishments/verify/ZZZZZZZZ](https://www.coursera.org/account/accomplishments/verify/CW8MSGXEOPH3)) | Google Coursera |
 
 </div>
 
@@ -652,14 +653,6 @@ May 2025 – July 2025
 
 ✓ Microservices
 
-✓ Cloud Computing
-
-✓ DevOps Fundamentals
-
-✓ Docker
-
-✓ Kubernetes
-
 ✓ CI/CD Pipelines
 ```
 
@@ -668,9 +661,8 @@ May 2025 – July 2025
 # 🌱 2026 Goals
 
 - 🚀 Become a Software Engineer
-- 💯 Solve 500+ DSA problems
+- 💯 Solve 300+ DSA problems
 - 🌍 Contribute to Open Source
-- ☁️ Learn Cloud & DevOps
 - 🧠 Master System Design
 - 📦 Build scalable backend systems
 - 🤖 Develop impactful AI applications
