@@ -535,14 +535,6 @@ May 2025 – July 2025
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan7955&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
