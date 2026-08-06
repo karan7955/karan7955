@@ -553,19 +553,6 @@ May 2025 – July 2025
 
 </div>
 
-<!---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karan7955&theme=tokyonight&margin-w=15&no-frame=true&row=2&column=4"/>
-
-</div>
-
----!>
-
-# 🎖 Certifications
 
 <div align="center">
 
