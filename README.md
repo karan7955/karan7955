@@ -569,19 +569,17 @@ May 2025 – July 2025
 
 <div align="center">
 
-| Certification | Provider |
-|---------------|----------|
 # 🎓 Certifications
 
 | Certification | Provider |
 |---------------|----------|
-| [Programming in Java]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/12JYT9LRdlGr15ZZuZq0byQC-Wcglbmkr/view)) | NPTEL – IIT Kharagpur |
-| [Python for Data Science]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/1YOKQ5-5xoRPYyQ3OO9iGJSwojq7iG2qB/view)) | NPTEL – IIT Madras |
-| [Joy of Computing Using Python]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/1_5CRnjgPI2qzmuk2bM-ZL1d7bCUUOls1/view?usp=sharing)) | NPTEL – IIT Madras |
-| [Problem Solving in C]([https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL_CERTIFICATE_LINK](https://drive.google.com/file/d/110qvKOIc_cThHyr-KH5CuQZs9qFE-bRz/view)) | NPTEL – IIT Kharagpur |
-| [Databases and SQL for Data Science with Python]([https://www.coursera.org/account/accomplishments/verify/XXXXXXXX](https://www.coursera.org/account/accomplishments/verify/6M29WP11W5KH)) | Google Coursera |
-| [Data Science in Python]([https://www.coursera.org/account/accomplishments/verify/YYYYYYYY](https://www.coursera.org/account/accomplishments/verify/0L4OVRSD1RVY)) | Google Coursera |
-| [AI & ML on Google Cloud]([https://www.coursera.org/account/accomplishments/verify/ZZZZZZZZ](https://www.coursera.org/account/accomplishments/verify/CW8MSGXEOPH3)) | Google Coursera |
+| [Programming in Java](https://drive.google.com/file/d/12JYT9LRdlGr15ZZuZq0byQC-Wcglbmkr/view) | NPTEL – IIT Kharagpur |
+| [Python for Data Science](https://drive.google.com/file/d/1YOKQ5-5xoRPYyQ3OO9iGJSwojq7iG2qB/view) | NPTEL – IIT Madras |
+| [Joy of Computing Using Python](https://drive.google.com/file/d/1_5CRnjgPI2qzmuk2bM-ZL1d7bCUUOls1/view?usp=sharing) | NPTEL – IIT Madras |
+| [Problem Solving in C](https://drive.google.com/file/d/110qvKOIc_cThHyr-KH5CuQZs9qFE-bRz/view) | NPTEL – IIT Kharagpur |
+| [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/6M29WP11W5KH) | Google Coursera |
+| [Data Science in Python](https://www.coursera.org/account/accomplishments/verify/0L4OVRSD1RVY) | Google Coursera |
+| [AI & ML on Google Cloud](https://www.coursera.org/account/accomplishments/verify/CW8MSGXEOPH3) | Google Coursera |
 
 </div>
 
